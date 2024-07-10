@@ -1,2 +1,4 @@
 # assignment1
-this is my first HTML assignment.
+This is my first HTML assignment.
+Author- PrakharSanwal
+
